@@ -1,0 +1,3 @@
+torch
+git+https://github.com/huggingface/transformers.git@21f6f58721dd9154357576be6de54eefef1f1818
+git+https://github.com/impira/docquery.git@a494fe5af452d20011da75637aa82d246a869fa0#egg=docquery[web,donut]
