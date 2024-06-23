@@ -8,7 +8,7 @@ Develop a Python application to extract key information from invoices using mach
 Develop a Python application to extract key information from invoices using machine learning. The project involves training a model, optimizing it for deployment, and running it on a client desktop. The solution handles various invoice formats in English, Dutch, and French without hardcoded labels, understanding the context to accurately extract information.
 
 ## Demo
-![Demo](invoice_ocr.gif)
+![Demo](ocr_vid.gif)
 
 ## Project Structure
 
